@@ -1,0 +1,13 @@
+db.h check
+db.cpp x
+db.lib check
+
+*need namespace*
+
+--compile in the form of a static library
+	-others can use your code without you having to show 
+	 the source code
+
+.lib file will show up in the solutions folder once built
+
+$(SolutionDir)db

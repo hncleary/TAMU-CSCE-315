@@ -1,0 +1,28 @@
+﻿  db.cpp
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(311): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(335): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(350): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(361): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(375): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(383): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(404): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(455): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(460): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(487): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(488): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(499): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(506): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(518): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(542): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(554): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(565): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(577): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(596): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(615): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(633): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(667): warning C4018: '<': signed/unsigned mismatch
+c:\users\hunter\desktop\csce315-ta1-team21\csce315-ta1-team21\db_sys\db\db.cpp(672): warning C4018: '<': signed/unsigned mismatch
+  db.vcxproj -> C:\Users\Hunter\Desktop\CSCE315-TA1-Team21\CSCE315-TA1-Team21\db_sys\Debug\db.lib

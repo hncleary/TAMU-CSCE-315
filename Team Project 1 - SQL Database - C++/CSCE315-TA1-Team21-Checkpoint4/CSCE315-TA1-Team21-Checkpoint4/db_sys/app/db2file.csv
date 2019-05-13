@@ -1,0 +1,13 @@
+TABLE START,students,4,2
+Name,School
+Joe Smith,Rice
+Jill Smith,LSU
+Sam Jones,Texas A&M
+Sue Jones,Rice
+TABLE END
+TABLE START,schoolLocations,3,2
+School,City
+Texas A&M,College Station
+Rice,Houston
+LSU,Baton Rouge
+TABLE END
